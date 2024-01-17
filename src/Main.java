@@ -35,7 +35,7 @@ public class Main {
                 case '3':
                     System.out.println("цикл for: \n");
                     System.out.println("инициализация;условие; итерация");
-                    System.out.println("инструкция");
+                    System.out.println("инструкция;");
             }
         }
     }
