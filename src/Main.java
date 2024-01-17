@@ -36,6 +36,17 @@ public class Main {
                     System.out.println("цикл for: \n");
                     System.out.println("инициализация;условие; итерация");
                     System.out.println("инструкция;");
+                    break;
+                case '4':
+                    System.out.println(" цикл while\n");
+                    System.out.println("while(условие)инструкция;");
+                    break;
+                case '5':
+                    System.out.println("цикл do while:\n");
+                    System.out.println("do{ " +
+                            "инструкция}while(условие);");
+
+
             }
         }
     }
