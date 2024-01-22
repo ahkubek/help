@@ -11,6 +11,8 @@ public class Main {
             System.out.println("3.for");
             System.out.println("4.while");
             System.out.println("5.do-while\n");
+            System.out.println("6. break");
+            System.out.println("7.Continue");
             System.out.println("выберите");
             choise = (char) System.in.read();
             do {
