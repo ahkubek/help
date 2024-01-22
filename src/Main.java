@@ -18,7 +18,7 @@ public class Main {
             do {
                 ignore = (char) System.in.read();
             } while (ignore != '\n');
-        }while (choise<'1'|choise>'5');
+        }while (choise<'1'|choise>'7');
             switch (choise) {
                 case '1':
                     System.out.println(" if\n");
@@ -47,6 +47,9 @@ public class Main {
                     System.out.println("цикл do while:\n");
                     System.out.println("do{ " +
                             "инструкция}while(условие);");
+                    break;
+                default:
+                    System.out.println("Такой цифры нет, сделайте выбор от 1 до 5");
 
 
             }
