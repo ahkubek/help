@@ -56,6 +56,7 @@ public class Main {
 
                 default:
                     System.out.println("Такой цифры нет, сделайте выбор от 1 до 5");
+                    break;
 
 
             }
