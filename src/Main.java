@@ -53,6 +53,7 @@ public class Main {
                     System.out.println("инструкция break;\n");
                     System.out.println("break или break метка;");
                     break;
+                case  '7':
 
                 default:
                     System.out.println("Такой цифры нет, сделайте выбор от 1 до 5");
