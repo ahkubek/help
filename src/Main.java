@@ -54,6 +54,9 @@ public class Main {
                     System.out.println("break или break метка;");
                     break;
                 case  '7':
+                    System.out.println("Инструкция Continue:\n");
+                    System.out.println("continue или continue метка;");
+                    break;
 
                 default:
                     System.out.println("Такой цифры нет, сделайте выбор от 1 до 5");
